@@ -6,24 +6,24 @@
 
 | Syntax              | Statements     | Functions     | Data structures     |
 |---------------------|----------------|---------------|---------------------|
-| ⬜️ value           | ⬜️ if         | ⬜️ recursion | ⬜️ array           |
-| ⬜️ identifier      | ⬜️ loops      | ⬜️ function  | ⬜️ class           |
-| ⬜️ variable        | ⬜️ assignment | ⬜️ lambda    | ⬜️ object          |
-| ⬜️ constant        | ⬜️  | ⬜️ signature    | ⬜️ collection    |
-| ⬜️ scalar          | ⬜️  | ⬜️ argument     | ⬜️ hash table    |
-| ⬜️ literal         | ⬜️  | ⬜️ parameter    | ⬜️ linked list   |
-| ⬜️ expression      | ⬜️  | ⬜️ pure         | ⬜️ queue         |
-| ⬜️ heap            | ⬜️  | ⬜️ function     | ⬜️ stack         |
-| ⬜️ type            | ⬜️  | ⬜️ side effects | ⬜️ deque         |
-| ⬜️ primitive types | ⬜️  | ⬜️ closure      | ⬜️ serialization |
-| ⬜️ reference       | ⬜️  | ⬜️ partial      | ⬜️  |
-| ⬜️ flag            | ⬜️  | ⬜️ curry        | ⬜️  |
-| ⬜️ lexical scope   | ⬜️  | ⬜️ chaining     | ⬜️  |
-| ⬜️                 | ⬜️  | ⬜️ higher order | ⬜️  |
-| ⬜️                 | ⬜️  | ⬜️ callback     | ⬜️  |
-| ⬜️                 | ⬜️  | ⬜️ listener     | ⬜️  |
-| ⬜️                 | ⬜️  | ⬜️ pipe         | ⬜️  |
-| ⬜️                 | ⬜️  | ⬜️ compose      | ⬜️  |
+| ⬜️ value           | ⬜️ if         | ⬜️ recursion   | ⬜️ array           |
+| ⬜️ identifier      | ⬜️ loops      | ⬜️ function    | ⬜️ class           |
+| ⬜️ variable        | ⬜️ assignment | ⬜️ lambda      | ⬜️ object          |
+| ✅ constant        | ⬜️            | ⬜️ signature    | ⬜️ collection    |
+| ✅ scalar          | ⬜️            | ⬜️ argument     | ⬜️ hash table    |
+| ⬜️ literal         | ⬜️            | ⬜️ parameter    | ⬜️ linked list   |
+| ⬜️ expression      | ⬜️            | ⬜️ pure         | ⬜️ queue         |
+| ⬜️ heap            | ⬜️            | ⬜️ function     | ⬜️ stack         |
+| ✅ type            | ⬜️            | ⬜️ side effects | ⬜️ deque         |
+| ✅ primitive types | ⬜️            | ⬜️ closure      | ⬜️ serialization |
+| ✅ reference       | ⬜️            | ⬜️ partial      | ⬜️  |
+| ⬜️ flag            | ⬜️             | ⬜️ curry        | ⬜️  |
+| ⬜️ lexical scope   | ⬜️             | ⬜️ chaining     | ⬜️  |
+| ⬜️                 | ⬜️             | ⬜️ higher order | ⬜️  |
+| ⬜️                 | ⬜️             | ⬜️ callback     | ⬜️  |
+| ⬜️                 | ⬜️             | ⬜️ listener     | ⬜️  |
+| ⬜️                 | ⬜️             | ⬜️ pipe         | ⬜️  |
+| ⬜️                 | ⬜️             | ⬜️ compose      | ⬜️  |
 
 - ⬜️ mixin
 - ⬜️ memoize
